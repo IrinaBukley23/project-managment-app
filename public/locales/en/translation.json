@@ -1,0 +1,93 @@
+{
+  "welcomeRoute": {
+    "title": "Final project - React 2022 Q1 course",
+    "btns": {
+      "login": "Login",
+      "registration": "Registration",
+      "mainPage": "Main Page"
+    }
+  },
+  "Headerlinks": {
+    "welcome": "welcome",
+    "editProfile": "Edit Profile",
+    "CreateNewBoard": "Create New Board",
+    "logOut": "Log out"
+  },
+  "BoardForm": {
+    "title": "Create new board",
+    "name": "Board name",
+    "namePlaceholder": "Enter board name",
+    "description": "Board description",
+    "descriptionPlaceholder": "Enter board description",
+    "btn": "Create board" 
+  },
+  "Confirmation": {
+    "title": "Are you sure",
+    "info": "Do you really want to delete? This process cannot be undone",
+    "btns": {
+      "cancel": "Cancel",
+      "delete": "Delete"
+    }
+  },
+  "ProfileForm": {
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "btn": "Submit"
+  },
+  "TaskForm": {
+    "title": "Create new task",
+    "name": "Task name",
+    "namePlaceholder": "Enter task name",
+    "description": "Task description",
+    "descriptionPlaceholder": "Enter task description",
+    "user": "User",
+    "userPlaceholder": "Enter user",
+    "btn": "Create task"
+  },
+  "AuthPage": {
+   "mainTitle": "Plase fill this out all fields..."
+  },
+  "AuthForm": {
+    "name":"Name",
+    "login": "Login",
+    "password": "Password",
+    "confirmPass": "Confirm Password",
+    "btn": "Submit",
+    "redirectToLogin": "Go to login page",
+    "nameError": "name should not be empty",
+    "loginError": "login should not be empty",
+    "passwordError": "password should not be empty",
+    "userExistsError": "User login already exists!"
+  },
+  "LoginPage": {
+   "mainTitle": "Welcome to Trello Clone"
+  },
+
+  "LoginForm": {
+    "login": "Login",
+    "password": "Password",
+    "btn": "Submit",
+    "loginError": "login should not be empty",
+    "passwordError": "password should not be empty"
+  },
+  "NotFound": {
+    "linkWelcome": "Welcome page",
+    "title": "Something went wrong... Page NotFound"
+  },
+  "Main": {
+    "addBoard": "Add board"
+  },
+  "Board": {
+    "addColumn": "Add Column"
+  }, 
+  "ColumnForm": {
+    "title": "Create new column", 
+    "name": "Column name",
+    "namePlaceholder": "Enter column name",
+    "btn": "Create column"
+  },
+  "Task": {
+    "addTask": "Add task"
+  }
+}

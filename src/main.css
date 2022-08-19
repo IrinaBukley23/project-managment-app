@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+* {
+    margin: 0 ;
+	padding: 0;
+	box-sizing: border-box;
+}
+:root {
+    font-size: 16px;
+}
+
+html {
+    font-family: 'Lato', sans-serif;
+    --color-background-dark: #496581;
+    --color-background-dark-60: #49658160;
+    --color-background-light: #e0fdff;
+    --color-background-white: #fff;
+    --color-text-dark: #313030;
+    --color-text-light: #ffd891;
+    --color-text-white: #fff;
+    --color-button-regular: #407283;
+    --color-button-active: #3a5d69;
+    background-color: var(--color-background-light);
+    color: var(--color-text-dark);
+}
